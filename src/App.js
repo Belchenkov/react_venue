@@ -3,6 +3,7 @@ import React from 'react';
 import Header from "./components/header_footer/Header";
 import Featured from "./components/featured";
 import VenueInfo from "./components/venue_info";
+import Highlights from "./components/highlights";
 
 import './resources/styles.css';
 
@@ -12,6 +13,7 @@ function App() {
       <Header />
       <Featured />
       <VenueInfo />
+      <Highlights />
     </div>
   );
 }
