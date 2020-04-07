@@ -14,7 +14,7 @@ const MyButton = ({ text, bck, color, link }) => {
                 color: color
             }}
         >
-            <img src={ticket_icon} className="iconImage" alt="button"/>
+            <img src={ticket_icon} className="iconImage" alt="button" />
             {text}
         </Button>
     );
