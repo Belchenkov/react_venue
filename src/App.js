@@ -6,6 +6,7 @@ import VenueInfo from "./components/venue_info";
 import Highlights from "./components/highlights";
 import Pricing from "./components/pricing";
 import Location from "./components/location";
+import Footer from "./components/header_footer/Footer.js";
 
 import './resources/styles.css';
 
@@ -18,6 +19,7 @@ function App() {
       <Highlights />
       <Pricing />
       <Location />
+      <Footer />
     </div>
   );
 }
