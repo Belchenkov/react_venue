@@ -1,5 +1,10 @@
 ## React Venue
 
+> Landing Page on React.js
+
+
+Demo: http://react-venue-ab.surge.sh
+
 In the project directory, you can run:
 
 ### `npm start`
